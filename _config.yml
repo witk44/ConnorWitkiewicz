@@ -1,1 +1,18 @@
 theme: jekyll-theme-hacker
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>Hi Im Connor Witkiewicz, I am from Peru, New York.  I lived in Peru my whole life and attended Peru High school.  I am a 46er and loved hiking every high peak.  I also love to fish and kneeboard on my free time.  I was on the New York national team for wrestling.  I have traveled to Germany, Puerto Rico and Ireland to compete.  I was a two time Greco state champ and compteted at nationals in Fargo.  Along with wrestling I also played soccer in high school and hope to continue playing at RIT./p>
+<img src="ramen.jpg" alt="ramen">
+<a href="https://www.w3schools.com/">Visit the SE website!</a>
+<p style="text-align:center;">Learn html and be good at it so I am not lost doing a SWEN 101 website.</p>
+<p style="text-align:center;">Learn different ways to tackle a problem.</p>
+<p style="text-align:center;">Learn from my professors and use those teachings in the future.</p>
+
+</body>
+</html>
